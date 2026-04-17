@@ -1,2 +1,2 @@
-# proyectoweb
-Sitio web creado para curso web
+# Web Project
+Website created as portfolio
